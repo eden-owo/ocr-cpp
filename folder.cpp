@@ -1,7 +1,6 @@
 #include "Folder.h"
 #include <shlobj.h>
 #include <fstream>
-//#include <windows.h>
 #include <iostream>  // std::wcerr 必須要這個
 #include <vector>
 
