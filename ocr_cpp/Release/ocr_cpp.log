@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\test\ocr_cpp\main.cpp(2,10): error C1083: 無法開啟包含檔案: 'opencv2/opencv.hpp': No such file or directory
