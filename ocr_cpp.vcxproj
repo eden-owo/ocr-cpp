@@ -19,10 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="folder.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ocr_module.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="folder.h" />
     <ClInclude Include="ocr_module.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
