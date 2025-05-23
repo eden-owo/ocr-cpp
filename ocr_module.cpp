@@ -38,7 +38,7 @@ void run_ocr(const Img& img) {
     OcrInitOptionsSetUseModelDelayLoad(ctx, 0);
 
     string key_str;
-    cout << "½Ð¿é¤J OCR ª÷Æ_: ";
+    cout << "Please input OCR key: ";
     cin >> key_str;
     const char* key = key_str.c_str();
 
