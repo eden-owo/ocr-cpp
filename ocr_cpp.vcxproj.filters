@@ -21,9 +21,15 @@
     <ClCompile Include="ocr_module.cpp">
       <Filter>標頭檔</Filter>
     </ClCompile>
+    <ClCompile Include="folder.cpp">
+      <Filter>標頭檔</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ocr_module.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="folder.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
